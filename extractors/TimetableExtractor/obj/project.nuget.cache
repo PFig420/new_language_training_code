@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mAnxnj5C7Vckp6zSbWEZKnpw8onuv5mAVm3cCjNjU6S6ggS2Ex1/BcgFYmLfMR4p6HFEj5XLCOt1jA/cYW3GZg==",
+  "success": true,
+  "projectFilePath": "/home/pedro/Desktop/APIs/extractor/TimetableExtractor/TimetableExtractor.csproj",
+  "expectedPackageFiles": [
+    "/home/pedro/.nuget/packages/pdfpig/0.1.15/pdfpig.0.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

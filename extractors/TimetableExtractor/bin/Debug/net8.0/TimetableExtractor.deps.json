@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TimetableExtractor/1.0.0": {
+        "dependencies": {
+          "PdfPig": "0.1.15"
+        },
+        "runtime": {
+          "TimetableExtractor.dll": {}
+        }
+      },
+      "PdfPig/0.1.15": {
+        "runtime": {
+          "lib/net8.0/UglyToad.PdfPig.Core.dll": {
+            "assemblyVersion": "0.1.15.0",
+            "fileVersion": "0.1.15.0"
+          },
+          "lib/net8.0/UglyToad.PdfPig.DocumentLayoutAnalysis.dll": {
+            "assemblyVersion": "0.1.15.0",
+            "fileVersion": "0.1.15.0"
+          },
+          "lib/net8.0/UglyToad.PdfPig.Fonts.dll": {
+            "assemblyVersion": "0.1.15.0",
+            "fileVersion": "0.1.15.0"
+          },
+          "lib/net8.0/UglyToad.PdfPig.Package.dll": {
+            "assemblyVersion": "0.1.15.0",
+            "fileVersion": "0.1.15.0"
+          },
+          "lib/net8.0/UglyToad.PdfPig.Tokenization.dll": {
+            "assemblyVersion": "0.1.15.0",
+            "fileVersion": "0.1.15.0"
+          },
+          "lib/net8.0/UglyToad.PdfPig.Tokens.dll": {
+            "assemblyVersion": "0.1.15.0",
+            "fileVersion": "0.1.15.0"
+          },
+          "lib/net8.0/UglyToad.PdfPig.dll": {
+            "assemblyVersion": "0.1.15.0",
+            "fileVersion": "0.1.15.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimetableExtractor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PdfPig/0.1.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Bf0NO4o2ZSVnemMyj21KDU1sfSgmamFC0pD4aAv19CDNXQsoO1Z6O99gNqpiK/XWWZ5d5i7JkQoT7PUBxEPz5g==",
+      "path": "pdfpig/0.1.15",
+      "hashPath": "pdfpig.0.1.15.nupkg.sha512"
+    }
+  }
+}
